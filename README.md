@@ -4,7 +4,7 @@ In today's fast-paced and technology-driven world, people are becoming increasin
 # Learning Objectives
 - Familiarise with common sensors adopted in smart home appliances
 - Familiarise with displaying information on a OLED monitor
-- Familiarise with using the HC-05 bluetooth module
+- Familiarise with the HC-05
 - Develop a mobile application for distant manipulation
 
 # Item List
